@@ -8,6 +8,6 @@
 | Implement Interactive Envelope Editor & FX Panel in UI | done | Multi-tab visual vector envelope editor and effects rack controls |
 | Update and run verification tests | done | All 12/12 automated test suites passed (36 presets, FX bus, envelopes, GUI, RT safety) |
 | Setup .gitignore and project README.md | done | Comprehensive documentation, badges, and ignore rules |
-| Initialize Git repository and commit files | in_progress | Initialize git in project root with initial commit |
-| Create GitHub repository and push code | not_started | Use gh CLI to create remote repository under muccio account |
-| Package release binaries and publish GitHub Release | not_started | Zip VST3 & Standalone app and publish v1.0.0 release |
+| Initialize Git repository and commit files | done | Initialized git in project root with commit 3cd9cb8 |
+| Create GitHub repository and push code | done | Created and pushed to https://github.com/muccio/AetherUI |
+| Package release binaries and publish GitHub Release | done | Published v1.0.0 with VST3 & Standalone zips at https://github.com/muccio/AetherUI/releases/tag/v1.0.0 |
